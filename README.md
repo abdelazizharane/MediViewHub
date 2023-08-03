@@ -10,7 +10,7 @@ MediViewHub est un acronyme de :
 
 -----------------------
 
-Après avoir créer un **login et se connecter**, vous voyez cette interface 👇🏿
+Après la création d'un **login** et la connection à  la plateforme, vous devez voir cette interface 👇🏿
 
 
 <img width="830" alt="image" src="https://github.com/AbdoulazizH/MediViewHub/assets/122400488/c37fdc81-34bc-4634-9a37-a9bb4549e551">
